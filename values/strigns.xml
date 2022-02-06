@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="appTitle">BMI計算アプリ</string>
+    <string name="heightLabel">身長（cm）</string>
+    <string name="heightForm" />
+    <string name="weightLabel">体重（kg）</string>
+    <string name="weightForm" />
+    <string name="buttonCalc">BMIを計算する！</string>
+    <string name="bmiScore">BMIスコア</string>
+</resources>
